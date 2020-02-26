@@ -46,6 +46,9 @@ nav {
   justify-content: center;
   width: 30%;
 }
+.about {
+  text-align: left;
+}
 
 @media screen and (max-width: 600px) {
   .nav-links {
