@@ -13,11 +13,9 @@ function Banner() {
       <div class="about">
         <h2>About Me</h2>
         <p>
-          I graduated form Phinma University Of Pangasinan with a critical
+          I graduated from Phinma University of Pangasinan with a critical
           experience in learning technology. I can implement effective and user
           friendly websites which enables me to help and satisfy clients.
-        </p>
-        <p>
           Striving to leverage my web development skills especially front end
           development.
         </p>
